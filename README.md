@@ -2,7 +2,7 @@ BusinessPlan
 =================================================================
 
 Sistema de Construção de Planos de Negocios.
-======================================================================================
+
 
 O “ BusinessPlan” é um sistema que está sendo desenvolvido por alunos do Programa de educação tutorial (PET) do 
 curso de Administração da UFRPE, em parceria com os alinos de Sistemas de Informação. O plano de negócios é um 
